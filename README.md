@@ -1,9 +1,9 @@
 # RPG 게임
 
-Unity에서 C++을 사용해 RPG 게임 만들기
+Unity에서 C#을 사용해 RPG 게임 만들기
 
 - Game
-- C++
+- C#
 
 
 ## 3D quest
